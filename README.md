@@ -1,5 +1,4 @@
 # Swimwear Descriptions for Men
-We hope to provide a better means of classifying  
 
 
 ---
@@ -7,8 +6,9 @@ We hope to provide a better means of classifying
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The broad question we answer in this project is: which customers will purchase new packages, and if they do, how many?
-We arrive at an answer using so called Buy 'Til You Die (BTYD) models of customer likelihood of making future purchases, along with ensemble methods (logistic regression and decision trees) to determine which studies will be purchased.
+We hope to provide a better means of classifying  what type of fit men's swimwear bottoms will provide a customer. 
+The current standard is "board shorts" or "swim trunks", but these labels can fail describe a particular pair of swimwear accurately. 
+We will use natural language processing on garment descriptions provided by e-commerce sites to more accurately classify the type of fit a garment will provide.
 
 ### Methods Used
 * Web Scraping
