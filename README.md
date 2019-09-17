@@ -1,6 +1,5 @@
 # Swimwear Descriptions for Men
 
-
 ---
 
 #### -- Project Status: [Active]
@@ -27,11 +26,12 @@ We would like to know how the "board shorts" and "swim trunks" categories of men
 Specifically, we are accessing how well the categories distinguish between a garment having a stretch waist or not. 
 
 ## Getting Started
-
+0. Much of the work in this project is being used for proprietary purposes. Only raw data and results will be shown here.
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Examples of the raw .html files used to find garment descriptions is being kept [here](data) within this repo.
+
 ## Featured Notebooks/Analysis/Deliverables
-* [Presentation of Results to Date](https://github.com/99KHayes/big-dream-ministries/blob/master/results/Final%20Presentation.pdf)
+* [Presentation of Results to Date](https://github.com/CliffordBridges/swimwear-descriptions-for-men/blob/master/results/presentation/presentation.pdf)
 
 ## Contributing Members
 
