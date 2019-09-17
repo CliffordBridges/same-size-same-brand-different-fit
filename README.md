@@ -28,7 +28,7 @@ Specifically, we are accessing how well the categories distinguish between a gar
 ## Getting Started
 0. Much of the work in this project is being used for proprietary purposes. Only raw data and results will be shown here.
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Examples of the raw .html files used to find garment descriptions is being kept [here](data) within this repo.
+2. Examples of the raw .html files used to find garment descriptions is being kept [here](https://github.com/CliffordBridges/swimwear-descriptions-for-men/blob/master/data/raw/Rhythm_Honolulu_Beach_Short.html) within this repo.
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Presentation of Results to Date](https://github.com/CliffordBridges/swimwear-descriptions-for-men/blob/master/results/presentation/presentation.pdf)
